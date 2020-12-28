@@ -12,5 +12,9 @@ public class Student {
     private String phone;
     private String xiao;
     private String teacherName;
+    private String test1;
+    public int add(int i,int j){
+        return  i+j;
+    }
 
 }
