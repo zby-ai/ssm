@@ -9,6 +9,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -46,9 +47,17 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="432" y="237" key="Vcs.Push.Dialog.v2" timestamp="1609156863365">
+    <state x="440" y="94" key="CommitChangelistDialog2" timestamp="1609157323322">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="432" y="237" key="Vcs.Push.Dialog.v2/0.0.1680.1010@0.0.1680.1010" timestamp="1609156863365" />
+    <state x="440" y="94" key="CommitChangelistDialog2/0.0.1680.1010@0.0.1680.1010" timestamp="1609157323322" />
+    <state x="432" y="237" key="Vcs.Push.Dialog.v2" timestamp="1609157288121">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="432" y="237" key="Vcs.Push.Dialog.v2/0.0.1680.1010@0.0.1680.1010" timestamp="1609157288121" />
+    <state x="632" y="421" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609157308496">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="632" y="421" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1010@0.0.1680.1010" timestamp="1609157308496" />
   </component>
 </project>
