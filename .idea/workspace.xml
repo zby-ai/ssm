@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2652901c-c40c-4e64-9035-e1ea68361b5b" name="Default Changelist" comment="">
+<<<<<<< HEAD
+=======
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> 40dbf4bdf0021079f7fafedeab1f1a2770c790f1
       <change beforePath="$PROJECT_DIR$/test/hellowrodtest/src/com/atguigu/test/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/hellowrodtest/src/com/atguigu/test/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +51,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609156824157</updated>
+<<<<<<< HEAD
+      <workItem from="1609157198564" duration="366000" />
+    </task>
+    <task id="LOCAL-00001" summary="zbytest">
+      <created>1609157339597</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609157339597</updated>
+=======
       <workItem from="1609156826660" duration="586000" />
     </task>
     <task id="LOCAL-00001" summary="zbytest_githup">
@@ -56,6 +69,7 @@
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
       <updated>1609156893225</updated>
+>>>>>>> 40dbf4bdf0021079f7fafedeab1f1a2770c790f1
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
@@ -64,6 +78,13 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+<<<<<<< HEAD
+    <MESSAGE value="zbytest" />
+    <option name="LAST_COMMIT_MESSAGE" value="zbytest" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="94" key="CommitChangelistDialog2" timestamp="1609157338708">
+=======
     <MESSAGE value="zbytest_githup" />
     <option name="LAST_COMMIT_MESSAGE" value="zbytest_githup" />
   </component>
@@ -87,13 +108,14 @@
     <state x="541" y="295" key="git4idea.merge.GitPullDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1609157392474" />
 =======
     <state x="440" y="94" key="CommitChangelistDialog2" timestamp="1609157323322">
+>>>>>>> 40dbf4bdf0021079f7fafedeab1f1a2770c790f1
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="440" y="94" key="CommitChangelistDialog2/0.0.1680.1010@0.0.1680.1010" timestamp="1609157323322" />
-    <state x="432" y="237" key="Vcs.Push.Dialog.v2" timestamp="1609157288121">
+    <state x="440" y="94" key="CommitChangelistDialog2/0.0.1680.1010@0.0.1680.1010" timestamp="1609157338708" />
+    <state x="432" y="237" key="Vcs.Push.Dialog.v2" timestamp="1609157347019">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="432" y="237" key="Vcs.Push.Dialog.v2/0.0.1680.1010@0.0.1680.1010" timestamp="1609157288121" />
+    <state x="432" y="237" key="Vcs.Push.Dialog.v2/0.0.1680.1010@0.0.1680.1010" timestamp="1609157347019" />
     <state x="632" y="421" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609157308496">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>

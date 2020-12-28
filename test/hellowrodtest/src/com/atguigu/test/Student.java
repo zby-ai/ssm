@@ -13,8 +13,13 @@ public class Student {
     private String xiao;
     private String teacherName;
     private String test1;
-    public int add(int i,int j){
-        return  i+j;
-    }
 
+    public int add(int i, int j) {
+        return i + j;
+
+
+    }
+    public void show () {
+        System.out.println("helloword");
+    }
 }
