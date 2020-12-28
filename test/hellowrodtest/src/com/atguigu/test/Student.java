@@ -10,6 +10,7 @@ public class Student {
     private String sax;
     private String email;
     private String phone;
+    private String xiao;
     private String teacherName;
     public void show(){
         System.out.println("helloword");
