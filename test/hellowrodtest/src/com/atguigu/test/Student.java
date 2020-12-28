@@ -10,4 +10,5 @@ public class Student {
     private String sax;
     private String email;
     private String phone;
+    private String xiao;
 }
